@@ -25,7 +25,7 @@
 
 2. Склонируйте репозиторий:
    ```
-   git clone https://github.com/your-username/photo-video-compressor.git
+   git clone https://github.com/Zm0T/VideoAndPhotoCompression.git
    cd photo-video-compressor
    ```
 
